@@ -1,3 +1,8 @@
+## The Purpose of this Fork
+
+This is a fork of DotNetZip with mitigation for CVE-2024-48510 (https://nvd.nist.gov/vuln/detail/CVE-2024-48510). 
+It is still recommended to move to System.IO.Compression where possible.
+
 ## Repository archived
 
 This repository was created before `System.IO.Compression` and the code is unmaintained
